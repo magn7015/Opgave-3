@@ -5,11 +5,3 @@ $colorHeading: #be4a14;
     color: $fontColor;
 }
 
-h2
-{
-    color: $colorHeading;
-}
-
-h1{
-    @extend h2;
-}
